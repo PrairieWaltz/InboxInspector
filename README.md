@@ -4,6 +4,8 @@
 
 Inbox-Inspector is a Python-based email analysis tool designed to inspect `.eml` and `.msg` email files for potential threats, such as phishing attempts, spoofed senders, and malicious links. It extracts and evaluates key email components, including sender information, DNS records (SPF, DKIM, DMARC), URLs, and IP addresses.
 
+![inspectorMainReadMe](https://github.com/user-attachments/assets/595ce4ce-9466-48ee-b2b7-736a6542ebe0)
+
 ## Features
 
 - Extracts sender email and domain information
